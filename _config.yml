@@ -8,14 +8,13 @@ twitter_username: lentonrentals
 
 # Build settings
 markdown: kramdown
-theme: minima
+sass:
+  sass_dir: node_modules
 plugins:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+  - package.json
+  - yarn.lock
   - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
