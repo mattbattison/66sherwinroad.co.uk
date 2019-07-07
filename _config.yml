@@ -1,0 +1,22 @@
+# Site settings
+title: 66 Sherwin Road
+email: hello@66sherwinroad.co.uk
+description: >-
+  66 Sherwin Road is a stylish and popular 6-bed student house
+  located in a quiet street in the heart of Lenton, Nottingham.
+url: "http://66sherwinroad.co.uk" 
+twitter_username: lentonrentals
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
