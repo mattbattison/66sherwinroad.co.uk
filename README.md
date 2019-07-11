@@ -2,7 +2,7 @@
 
 Website for 66 Sherwin Road — a student house in Nottingham.
 
-<https://www.66sherwinroad.co.uk/>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bbfcef42-9b8c-4deb-8472-be6adcc67e92/deploy-status)](https://app.netlify.com/sites/66-sherwin-road/deploys) <https://www.66sherwinroad.co.uk/>
 
 ## Building the Site
 
