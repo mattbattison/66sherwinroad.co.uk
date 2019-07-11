@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 title: A Tidy Garden Reflects a Tidy Student House
 author: Phil
 ---

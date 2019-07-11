@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 title: What Not to Bring When Moving In
 author: Phil
 ---

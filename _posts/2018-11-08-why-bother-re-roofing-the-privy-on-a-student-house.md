@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 title: Why Bother Re-Roofing the Privy on a Student House?
 author: Phil
 ---

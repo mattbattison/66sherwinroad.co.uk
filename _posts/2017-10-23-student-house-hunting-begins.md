@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 title: Student House Hunting Begins
 author: Phil
 ---

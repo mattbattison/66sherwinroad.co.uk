@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: blog
 title: Looking for a Student House Inclusive of All Bills?
 author: Phil
 ---
