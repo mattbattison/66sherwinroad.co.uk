@@ -16,6 +16,9 @@ The house is a lovely Victorian property. It's light and spacious with many orig
 
 All bills are included (gas, electricity, water, broadband, and TV licence) so once you've paid your rent there is nothing to worry about other than food and drink. We provide an extensive range of pots, pans, utensils, crockery, cutlery, and glasses, as well as bath mats and a starter pack of essentials like cleaning spray, tea towels, toilet roll, tea & coffee, and more — see below for a full list. The garden is even maintained on a regular basis at no extra cost!
 
+## What's Included?
+{% include features-list.md %}
+
 The location is excellent. It's within easy reach of the QMC and the University of Nottingham, it's a short walk to the local bus stops and tram routes into the city, and there are plenty of local shops and take-away restaurants nearby including a Tesco Express and a large Sainsbury's.
 
 ![Yellow Bedroom](/assets/yellow-bedroom.jpg)

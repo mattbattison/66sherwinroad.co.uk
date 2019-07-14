@@ -1,0 +1,19 @@
+- 💷 All Bills
+- 🗓 48-Week Tenancy
+- 💻 Ultrafast Broadband
+- 📺 HD Smart TV
+- 🛋 Lounge
+- 📦 Cellar
+- 🍽 Dishwasher
+- 🧺 Washing Machine
+- 👕 Tumble Dryer
+- 🌳 Garden
+- 🍗 BBQ & Picnic Table
+- 🔒 Lockable Shed
+- 🚲 Secure Bike Storage
+- 📷 CCTV
+- 💡 Securty Lights
+- 🛎 Alarm
+- 🅿️ Off-Street Parking
+- ➕ [More on the blog...](/blog/2017/08/04/moving-in-to-66-sherwin-road-what-not-to-bring.html)
+{: .features-list}
