@@ -2,13 +2,14 @@
 ---
 @import "minima";
 
+/* Features list */
 .features-list {
   list-style-type: none;
   margin-left: 15px;
   line-height: 2;
 }
 
-/* Number of columns depends on screen width */
+// number of columns depends on screen width
 @media (min-width: 450px) {
   .features-list {
     column-count: 2;
@@ -18,5 +19,31 @@
 @media (min-width: 600px) {
   .features-list {
     column-count: 3;
+  }
+}
+
+/* Contact form */
+form[name=contact] {
+  margin-top: 30px;
+  background: #efefef;
+  padding: 15px;
+  input, button {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    font-size: 100%;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  input {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+  button {
+    margin-top:30px;
+    cursor: pointer;
+    color: #fff;
+    background: #2a7ae2;
+    border: 1px solid #2a7ae2;
   }
 }
