@@ -26,4 +26,4 @@ Last summer we upgraded both bathrooms and installed a larger and more efficient
 
 ![Big Bedroom](/assets/big-bedroom.jpg)
 
-For the latest updates, check out our blog below or follow us on [twitter](https://twitter.com/{{ site.twitter_username }}). You can also see us [featured in The Tab Nottingham](http://thetab.com/uk/nottingham/2018/11/09/these-notts-landlords-set-up-a-house-twitter-and-its-the-most-wholesome-thing-youll-ever-see-40592). Interested? Email us at <hello@66sherwinroad.co.uk>.
+For the latest updates, check out our blog below or follow us on [twitter](https://twitter.com/{{ site.twitter_username }}). You can also see us [featured in The Tab Nottingham](https://thetab.com/uk/nottingham/2018/11/09/these-notts-landlords-set-up-a-house-twitter-and-its-the-most-wholesome-thing-youll-ever-see-40592). Interested? Email us at <hello@66sherwinroad.co.uk>.
