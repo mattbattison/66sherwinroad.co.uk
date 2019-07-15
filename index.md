@@ -21,12 +21,12 @@ All bills are included (gas, electricity, water, broadband, and TV licence) so o
 
 The location is excellent. It's within easy reach of the QMC and the University of Nottingham, it's a short walk to the local bus stops and tram routes into the city, and there are plenty of local shops and take-away restaurants nearby including a Tesco Express and a large Sainsbury's.
 
-![Yellow Bedroom](/assets/yellow-bedroom.jpg)
-
 We purchased the house in the summer of 2015 and since then it has benefitted from a series of major improvements including an amazing new kitchen, new appliances, new beds, new furniture in every room, re-decoration throughout, new double glazing, a new CCTV and alarm system, secure (covered) bike storage and a lovely garden with outside seating and a BBQ. There is also off-street parking for one car.
+
+![Yellow Bedroom](/assets/yellow-bedroom.jpg)
 
 Last summer we upgraded both bathrooms and installed a larger and more efficient boiler to ensure every room is nice and warm in the winter and to make sure there is always lots of hot water for the showers!
 
-![Big Bedroom](/assets/big-bedroom.jpg)
-
 For the latest updates, check out our blog below or follow us on [twitter](https://twitter.com/{{ site.twitter_username }}). You can also see us [featured in The Tab Nottingham](https://thetab.com/uk/nottingham/2018/11/09/these-notts-landlords-set-up-a-house-twitter-and-its-the-most-wholesome-thing-youll-ever-see-40592). Interested? Email us at <hello@66sherwinroad.co.uk>.
+
+![Big Bedroom](/assets/big-bedroom.jpg)
