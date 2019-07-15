@@ -21,6 +21,8 @@ All bills are included (gas, electricity, water, broadband, and TV licence) so o
 
 The location is excellent. It's within easy reach of the QMC and the University of Nottingham, it's a short walk to the local bus stops and tram routes into the city, and there are plenty of local shops and take-away restaurants nearby including a Tesco Express and a large Sainsbury's.
 
+{% include google-map.html %}
+
 We purchased the house in the summer of 2015 and since then it has benefitted from a series of major improvements including an amazing new kitchen, new appliances, new beds, new furniture in every room, re-decoration throughout, new double glazing, a new CCTV and alarm system, secure (covered) bike storage and a lovely garden with outside seating and a BBQ. There is also off-street parking for one car.
 
 ![Yellow Bedroom](/assets/yellow-bedroom.jpg)
