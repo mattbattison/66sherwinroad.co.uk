@@ -1,5 +1,6 @@
-<form name="contact" method="post" netlify>
+<form name="contact" method="post" netlify netlify-honeypot="bot-honeypot">
   <h4>Your Details</h4>
+  <p class="hidden"><label>Don't fill this out (or we'll think you're a bot) <input name="bot-honeypot"></label></p>
   <p><label>Name <input type="text" name="name" placeholder="Name" required></label></p>
   <p><label>Email <input type="email" name="email" placeholder="Email address" required></label></p>
   <p><label>Phone (optional) <input type="text" name="phone" placeholder="Phone number"></label></p>
