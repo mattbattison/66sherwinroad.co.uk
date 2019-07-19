@@ -28,3 +28,11 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
+
+# Include all images in /assets/images/gallery
+# on the Gallery page by default
+defaults:
+  - scope:
+      path: "assets/images/gallery"
+    values:
+      gallery_image: true

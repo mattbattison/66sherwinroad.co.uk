@@ -61,6 +61,13 @@ form[name="contact"] {
   }
 }
 
+/* Gallery */
+@media screen and (min-width: $on-palm) {
+  .gallery {
+    column-count: 2;
+  }
+}
+
 /* Utility classes */
 .hidden {
   visibility: hidden;
