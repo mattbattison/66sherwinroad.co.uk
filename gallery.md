@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Gallery
+title: Photo Gallery
 permalink: /gallery/
 ---
 {% assign gallery_images = site.static_files | where: "gallery_image", true %}
