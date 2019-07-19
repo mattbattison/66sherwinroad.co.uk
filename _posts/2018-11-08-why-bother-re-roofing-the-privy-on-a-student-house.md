@@ -12,7 +12,7 @@ You've only got to walk around many of the streets in Lenton and you'll find tha
 
 When we bought 66 Sherwin Road in 2015 it was already a licensed student HMO, but it was in need of some major TLC. We were faced with a decision: do we rip everything out, including the character of the building and just turn the house into another 'vanilla' student house or do we try and upgrade the house whilst maintaining as much of the character of the original building as possible? We chose the latter option and this extended to a sympathetic repair of the outside privy!
 
-![The Re-roofed Privy](/assets/images/gallery/privy.jpg)
+![The re-roofed privy](/assets/images/gallery/privy.jpg)
 
 We decided we wanted our student house to be a comfortable, warm, inviting, light, secure, safe and pleasant to live in and we wanted it to retain as much of the original heritage as possible. As parents of three students ourselves, we wanted the parents of the students staying in the house to walk into the house and be happy with the choice that their son or daughter had made.
 
