@@ -10,7 +10,7 @@ For first year students, many of who are just getting over the challenges of set
 
 It's tricky when friendship groups are only just being formed to even think about who you might want to share a house with in 10 months time! Living in university halls is very different to sharing a house so it's important to choose your housemates carefully. No matter how tricky it is don't just think it's something that you can put off for a couple of months otherwise you'll find all the best houses have been snapped up by 3rd and 4th year students!
 
-![Red Bedroom](/assets/red-bedroom.jpg)
+![Red bedroom](/assets/images/gallery/red-bedroom.jpg)
 
 Most student letting agents in the Nottingham area start to actively market their houses in November but some start even earlier. Most are pretty web savvy these days so if you are house hunting get yourself registered with them, follow them on Facebook and Twitter and keep a close eye on RightMove and StuRents – ideally set up an account and create alerts so you are automatically notified of houses that meet your criteria.
 

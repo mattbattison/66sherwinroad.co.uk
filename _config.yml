@@ -7,6 +7,7 @@ description: >-
   with all-inclusive rent, located on a quiet street in the heart
   of Lenton, Nottingham.
 header_pages:
+  - gallery.md
   - contact.md
 twitter_username: lentonrentals
 
@@ -27,3 +28,11 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
+
+# Include all images in /assets/images/gallery
+# on the Gallery page by default
+defaults:
+  - scope:
+      path: "assets/images/gallery"
+    values:
+      gallery_image: true
