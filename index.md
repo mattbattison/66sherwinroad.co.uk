@@ -6,7 +6,9 @@ title: Six-Bedroom Student House in Nottingham
 
 66 Sherwin Road is a stylish and popular six-bed student house with all-inclusive rent, located on a quiet street in the heart of Lenton, Nottingham.
 
-The house is a lovely Victorian property. It's light and spacious with many original features, high ceilings, and six good-sized bedrooms. As well as the large kitchen/diner, there is a separate lounge complete with a high-definition smart TV and satellite box. Additionally, there is 200Mb/s superfast and unlimited broadband available throughout the house. In the heated cellar there is a fully-equipped laundry room and extra storage space for your personal belongings.
+The house is a lovely Victorian property. It's light and spacious with many original features, high ceilings, and six good-sized bedrooms. As well as the large kitchen/diner, there is a separate lounge complete with a high-definition smart TV and satellite box.
+
+Additionally, there is 200Mb/s superfast and unlimited broadband available throughout the house. In the heated cellar there is a fully-equipped laundry room and extra storage space for your personal belongings.
 
 ![Kitchen](/assets/kitchen.jpg)
 
