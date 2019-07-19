@@ -31,6 +31,6 @@ We purchased the house in the summer of 2015 and since then it has benefitted fr
 
 Last summer we upgraded both bathrooms and installed a larger and more efficient boiler to ensure every room is nice and warm in the winter and to make sure there is always lots of hot water for the showers!
 
-For the latest updates, check out our blog below or follow us on [twitter](https://twitter.com/{{ site.twitter_username }}). You can also see us [featured in The Tab Nottingham](https://thetab.com/uk/nottingham/2018/11/09/these-notts-landlords-set-up-a-house-twitter-and-its-the-most-wholesome-thing-youll-ever-see-40592). Interested? Email us at <hello@66sherwinroad.co.uk>.
+For the latest updates, check out our blog below or follow us on [twitter](https://twitter.com/{{ site.twitter_username }}). You can also see us [featured in The Tab Nottingham](https://thetab.com/uk/nottingham/2018/11/09/these-notts-landlords-set-up-a-house-twitter-and-its-the-most-wholesome-thing-youll-ever-see-40592). Interested? Email us at <hello@66sherwinroad.co.uk> or [register interest here](/contact).
 
 ![Big Bedroom](/assets/big-bedroom.jpg)
