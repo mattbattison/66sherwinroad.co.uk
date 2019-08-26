@@ -1,3 +1,54 @@
+- file: front-of-house
+  alt: Front of the house
+
+- file: front-of-house-full-height
+  alt: Front of the house
+
+- file: front-of-house-roses
+  alt: Roses in the front garden
+
+- file: front-door
+  alt: Front door
+
+- file: blue-bedroom
+  alt: Ground-floor front bedroom
+
+- file: red-bedroom
+  alt: Ground-floor rear bedroom
+
+- file: big-bedroom
+  alt: Middle-floor front bedroom
+
+- file: big-bedroom-desk
+  alt: View towards the desk in the middle-floor front bedroom
+
+- file: pink-bedroom
+  alt: Middle-floor rear bedroom
+
+- file: yellow-bedroom
+  alt: Top-floor front bedroom
+
+- file: yellow-bedroom-desk
+  alt: View towards the desk in the top-floor front bedroom
+
+- file: small-bedroom
+  alt: Top-floor rear bedroom
+
+- file: small-bedroom-desk
+  alt: View towards the desk in the top-floor rear bedroom
+
+- file: kitchen-diner
+  alt: The kitchen-diner
+
+- file: kitchen-ovens
+  alt: The cooking facilities
+
+- file: kitchen-tea-and-coffee
+  alt: Starter pack of tea and coffee in the kitchen
+
+- file: kitchen
+  alt: The kitchen
+
 - file: back-garden
   alt: Back garden
 
@@ -13,14 +64,11 @@
 - file: bathroom-sink
   alt: Bathroom sink
 
-- file: big-bedroom-desk
-  alt: View towards the desk in the middle-floor front bedroom
+- file: lounge-magazines
+  alt: Magazine rack in the lounge
 
-- file: big-bedroom
-  alt: Middle-floor front bedroom
-
-- file: blue-bedroom
-  alt: Ground-floor front bedroom
+- file: lounge-sofas
+  alt: Sofas in the lounge
 
 - file: cellar-boiler
   alt: Boiler in the cellar
@@ -28,60 +76,11 @@
 - file: cellar-laundry
   alt: Laundry facilities in the cellar
 
-- file: front-door
-  alt: Front door
-
-- file: front-of-house-full-height
-  alt: Front of the house
-
-- file: front-of-house-roses
-  alt: Roses in the front garden
-
-- file: front-of-house
-  alt: Front of the house
-
-- file: garden-collage
-  alt: Collage of photos from the gardens
-
-- file: kitchen-diner
-  alt: The kitchen-diner
-
-- file: kitchen-ovens
-  alt: The cooking facilities
-
-- file: kitchen-tea-and-coffee
-  alt: Starter pack of tea and coffee in the kitchen
-
-- file: kitchen
-  alt: The kitchen
-
-- file: lounge-magazines
-  alt: Magazine rack in the lounge
-
-- file: lounge-sofas
-  alt: Sofas in the lounge
-
-- file: pink-bedroom
-  alt: Middle-floor rear bedroom
+- file: privy
+  alt: Exterior of the privy
 
 - file: privy-inside
   alt: Interior of the privy
 
-- file: privy
-  alt: Exterior of the privy
-
-- file: red-bedroom
-  alt: Ground-floor rear bedroom
-
-- file: small-bedroom-desk
-  alt: View towards the desk in the top-floor rear bedroom
-
-- file: small-bedroom
-  alt: Top-floor rear bedroom
-
-- file: yellow-bedroom-desk
-  alt: View towards the desk in the top-floor front bedroom
-
-- file: yellow-bedroom
-  alt: Top-floor front bedroom
-
+- file: garden-collage
+  alt: Collage of photos from the gardens
