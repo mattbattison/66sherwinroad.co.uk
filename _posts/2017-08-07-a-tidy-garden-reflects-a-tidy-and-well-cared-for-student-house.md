@@ -16,7 +16,7 @@ The front garden is a simpler affair but we have refused to succumb to requests 
 
 We've also taken on responsibility for caring for the garden of No.68 because the owner struggles with it due to his age and we're happy to help. Keeping his garden in check it makes it easier to keep on top of ours so it's a 'win-win'.
 
-![Images of the back garden at 66 Sherwin Road](/assets/images/gallery/garden-collage.jpg)
+![Images of the back garden at 66 Sherwin Road](/assets/images/garden-collage.jpg)
 _Images of the rear garden at 66 Sherwin Road_
 
 Rather than expect the students in the house to manage and care for the garden themselves, we look after it for them. We're keen to do it and we take the view that a tidy and loved garden reflects a commitment to care for and look after the house as well. Looking around at the surrounding houses on Sherwin Road it's clear that not everyone agrees with our view or philosophy but we're happy to be different.

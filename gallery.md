@@ -4,5 +4,5 @@ title: Photo Gallery
 permalink: /gallery/
 ---
 {% for image in site.data.gallery %}
-  ![{{image.alt}}](/assets/images/gallery/{{ image.file }}.jpg)
+  ![{{image.alt}}](/assets/images/{{ image.file }}.jpg)
 {% endfor %}
