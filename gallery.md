@@ -3,7 +3,6 @@ layout: gallery
 title: Photo Gallery
 permalink: /gallery/
 ---
-{% assign gallery_images = site.static_files | where: "gallery_image", true %}
-{% for gallery_image in gallery_images %}
-  ![{{ gallery_image.basename | replace: "-", " " | capitalize }}]({{ gallery_image.path }})
+{% for image in site.data.gallery %}
+  ![{{image.alt}}](/assets/images/gallery/{{ image.file }}.jpg)
 {% endfor %}
