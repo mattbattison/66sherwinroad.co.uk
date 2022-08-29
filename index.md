@@ -10,7 +10,7 @@ The house is a lovely Victorian property. It's light and spacious with many orig
 
 Additionally, Virgin Gig1 ultrafast broadband is available throughout the house with Virgin Wi-Fi Pods in place to ensure every room gets a great signal. In the heated cellar there is a fully-equipped laundry room (Miele and Bosch Washers and Dryers) and extra storage space for your personal belongings. 
 
-![Kitchen](/assets/images/kitchen.jpg)
+![Kitchen](/assets/images/kitchen-wide.jpg)
 
 | Bedrooms | Bathrooms | Rent (per person)
 |-
@@ -27,10 +27,10 @@ The location is excellent. It's within easy reach of the QMC and the University 
 
 We purchased the house in the summer of 2015 and since then it has benefitted from a series of major improvements including an amazing new kitchen, new appliances, new beds, new mattresses (2021), new carpets (2022), new furniture in every room, re-decoration throughout, new double glazing, a new CCTV and alarm system, secure (covered) bike storage and a lovely garden with outside seating and a BBQ. There is also off-street parking for one car with further on-street parking available via a resident permit.
 
-![Yellow bedroom](/assets/images/yellow-bedroom.jpg)
+![Yellow bedroom](/assets/images/bedroom-five.jpg)
 
 In 2018 we upgraded both bathrooms and installed a larger and more efficient boiler to ensure every room is nice and warm in the winter and to make sure there is always lots of hot water for the showers!
 
 For the latest updates, check out our blog below or follow us on [twitter](https://twitter.com/{{ site.twitter_username }}). You can also see us [featured in The Tab Nottingham](https://thetab.com/uk/nottingham/2018/11/09/these-notts-landlords-set-up-a-house-twitter-and-its-the-most-wholesome-thing-youll-ever-see-40592). Interested? Email us at <hello@66sherwinroad.co.uk> or [register interest here](/contact).
 
-![Big bedroom](/assets/images/big-bedroom.jpg)
+![Big bedroom](/assets/images/bedroom-three.jpg)

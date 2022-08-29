@@ -10,50 +10,20 @@
 - file: front-door
   alt: Front door
 
-- file: blue-bedroom
-  alt: Ground-floor front bedroom
-
-- file: red-bedroom
-  alt: Ground-floor rear bedroom
-
-- file: big-bedroom
-  alt: Middle-floor front bedroom
-
-- file: big-bedroom-desk
-  alt: View towards the desk in the middle-floor front bedroom
-
-- file: pink-bedroom
-  alt: Middle-floor rear bedroom
-
-- file: yellow-bedroom
-  alt: Top-floor front bedroom
-
-- file: yellow-bedroom-desk
-  alt: View towards the desk in the top-floor front bedroom
-
-- file: small-bedroom
-  alt: Top-floor rear bedroom
-
-- file: small-bedroom-desk
-  alt: View towards the desk in the top-floor rear bedroom
-
-- file: kitchen-diner
-  alt: The kitchen-diner
+- file: entrance-hall
+  alt: Entrance hall
 
 - file: kitchen-ovens
   alt: The cooking facilities
 
+- file: kitchen-table
+  alt: Kitchen table
+
 - file: kitchen-tea-and-coffee
   alt: Starter pack of tea and coffee in the kitchen
 
-- file: kitchen
+- file: kitchen-wide
   alt: The kitchen
-
-- file: back-garden
-  alt: Back garden
-
-- file: barbecue
-  alt: Barbecue
 
 - file: bathroom-shower-large
   alt: Shower in the large bathroom
@@ -61,26 +31,62 @@
 - file: bathroom-shower-small
   alt: Shower in the small bathroom
 
-- file: bathroom-sink
-  alt: Bathroom sink
-
-- file: lounge-magazines
-  alt: Magazine rack in the lounge
-
-- file: lounge-sofas
-  alt: Sofas in the lounge
-
-- file: cellar-boiler
-  alt: Boiler in the cellar
-
-- file: cellar-laundry
-  alt: Laundry facilities in the cellar
-
 - file: privy
   alt: Exterior of the privy
 
 - file: privy-inside
   alt: Interior of the privy
 
-- file: garden-collage
-  alt: Collage of photos from the gardens
+- file: back-garden-2
+  alt: Looking back towards the house from the end of the garden
+
+- file: back-garden-bins
+  alt: The back door and side gate
+
+- file: back-garden-flowers
+  alt: Some flowers along the side of the back garden
+
+- file: back-garden-table
+  alt: The picnic table in the back garden, with the parasol up
+
+- file: barbecue
+  alt: Barbecue
+
+- file: shed
+  alt: The shed
+
+- file: cellar
+  alt: The cellar washing facilities and CCTV
+
+- file: tumble-dryer
+  alt: Miele tumble drier
+
+- file: bathroom-one
+  alt: Bathroom one
+
+- file: bathroom-two
+  alt: Bathroom two
+
+- file: bedroom-one
+  alt: Bedroom one
+
+- file: bedroom-two
+  alt: Bedroom two
+
+- file: bedroom-three
+  alt: Bedroom three
+
+- file: bedroom-four
+  alt: Bedroom four
+
+- file: bedroom-five
+  alt: Bedroom five
+
+- file: bedroom-six
+  alt: Bedroom six
+
+- file: tv-room
+  alt: The TV room
+
+- file: tv-room-2
+  alt: Another view of the TV room
