@@ -28,7 +28,7 @@ The cap in any agreement signed last year is likely to be exceeded during the 20
 - Ask for regular updates from your landlord on your total spend vs any cap so you can get a better understanding of when you're likely to exceed it and by how much. At least this way you can take early preventative action and budget between yourselves for the overspend.
 - Ask if any utility overspend can be taken from your deposit at the end of the year rather than trying to find more cash during the year (bear in mind it might not be enough).
 
-![Cellar laundry facilities](/assets/images/cellar-laundry.jpg){:style="display:block;margin:auto"}
+![Kitchen](/assets/images/kitchen-wide.jpg){:style="display:block;margin:auto"}
 
 Finally, if you are looking to rent a student house for the following year (2023/24) and you're looking for a "bills included" house then be prepared for some pretty dramatic rental increases and make sure you check what cap is being imposed.
 
